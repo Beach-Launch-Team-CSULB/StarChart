@@ -1,0 +1,9 @@
+# ninja log v5
+16	1061	7388169665069027	StarChart_autogen/timestamp	d0ee05815dbc68a5
+16	1061	7388169665069027	StarChart_autogen/mocs_compilation.cpp	d0ee05815dbc68a5
+16	1061	7388169665069027	C:/Users/palli/OneDrive/Documents/Beach Launch Team/StarChart/StarChart/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/StarChart_autogen/timestamp	d0ee05815dbc68a5
+16	1061	7388169665069027	C:/Users/palli/OneDrive/Documents/Beach Launch Team/StarChart/StarChart/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/StarChart_autogen/mocs_compilation.cpp	d0ee05815dbc68a5
+1075	4272	7388169698024323	CMakeFiles/StarChart.dir/main.cpp.obj	6a41b9f64c416fce
+1092	4296	7388169698286306	CMakeFiles/StarChart.dir/mainwindow.cpp.obj	6a28f7f5346cf95c
+1062	4347	7388169698873048	CMakeFiles/StarChart.dir/StarChart_autogen/mocs_compilation.cpp.obj	a6d4b90de5b889ef
+4348	4772	7388169703085190	StarChart.exe	f04d94bdd8f63b53
